@@ -1215,7 +1215,7 @@
     )
   )
 
-  (gr_text "4K Keypad\n   -bal-" (at 100.80625 76.2) (layer F.SilkS)
+  (gr_text "Keypad 4K\n   -pie-" (at 100.80625 76.2) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 177.00625 72.23125) (end 177.00625 123.03125) (layer Edge.Cuts) (width 0.12) (tstamp 6669AA73))
